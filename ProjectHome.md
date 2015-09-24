@@ -1,0 +1,1 @@
+A stand-alone Java/Swing application that allows the user to view Google Maps and stores them locally on the user's computer.
